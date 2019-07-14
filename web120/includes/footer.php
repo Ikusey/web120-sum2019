@@ -1,7 +1,7 @@
 <!-- START Footer -->
 <footer>
-  <p><small>&copy; 2018 - 2019 by <a href="#" target="_blank">Azriel</a>, All Rights Reserved ~ <a href="http://validator.w3.org/check/referer" target="_blank"><img src="../images/HTML5.png" alt="Valid HTML5!"></a> ~ <a href="http://jigsaw.w3.org/css-validator/check/referer">
-  <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" />
+  <p><small>&copy; 2018 - <?=date('Y')?> by <a href="#" target="_blank">Azriel</a>, All Rights Reserved ~ <a href="http://validator.w3.org/check/referer" target="_blank">Valid HTML5!</a> ~ <a href="http://jigsaw.w3.org/css-validator/check/referer">
+  Valid CSS!"
     </a></small></p>
 </footer>
 <!-- END Footer --> 
